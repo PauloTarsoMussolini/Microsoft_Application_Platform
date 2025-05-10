@@ -16,45 +16,8 @@
   <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
 
 </p>
-
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/hsouzaeduardo">
-        <img src="https://avatars.githubusercontent.com/u/1692867?v=4" alt="@hsouzaeduardo"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
-      <br/>
-     🌟 Gerente Especialista em Arquitetura e IA 
-      <br/>
-    👨‍💻 Foco em AI, Cloud e CloudNative
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/hsouzaeduardo/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/hsouzaeduardo81/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+# Projeto DIO
+Paulo de Tarso Mussolini
 
 <br/>
 <br/>
